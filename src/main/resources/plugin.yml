@@ -1,0 +1,6 @@
+name: ESEvents
+version: ${project.version}
+main: me.xemor.esevents.ESEvents
+api-version: 1.17
+authors: [ Xemor_ ]
+description: A plugin that handles various events that Creeves requests I make
